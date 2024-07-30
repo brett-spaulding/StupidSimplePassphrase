@@ -1,6 +1,10 @@
 # StupidSimplePassphrase
 A passphrase generator that's so insanely simple it should be committed.  Made for Laravel.
 
+
+![Screenshot from 2024-07-30 17-51-20](https://github.com/user-attachments/assets/d64c1a9b-2bee-419d-b22e-f83199c47421)
+
+
 ### Are you tired of using the same old password like “qwerty” or “letmein”? 
 Well, we’ve got some good news and some bad news for you! The good news is that our product, Stupid Simple Passphrase, can generate ridiculously strong passwords for you! The bad news is we can't get back the $2500 in Amazon gift cards you already sent "Kevin" with the Indian accent.
 
