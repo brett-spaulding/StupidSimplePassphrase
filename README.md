@@ -8,8 +8,11 @@ But wait, there’s more! Not only will our passphrase generator make you virtua
 
 #### But don’t just take our word for it! Here’s what some of our satisfied customers have to say…
 “Stupid Simple Passphrase has changed my life!” - Random John
+
 “I can finally sleep at night knowing my passwords are secure.” - Sarah from OF
+
 “It’s like having a personal password butler, but without the f****ng attitude!” - Mark 
+
 
 And the best part? It’s completely FREE and open source! So why wait? Download Stupid Simple Passphrase today and start generating ridiculously strong passwords in no time!
 
