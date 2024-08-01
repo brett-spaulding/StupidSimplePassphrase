@@ -18,7 +18,7 @@ class PasswordGenerator extends Controller
     }
     public function generatePassword(Request $request): string
     {
-        $password = false;
+        $password = '';
         $length = intval($request->input('words'));
 
         if (0 < $length && $length <= 12) {
